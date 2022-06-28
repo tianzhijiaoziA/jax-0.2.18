@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: jax
+Version: 0.2.18
+Summary: Differentiate, compile, and transform Numpy code.
+Home-page: https://github.com/google/jax
+Author: JAX team
+Author-email: jax-dev@google.com
+License: Apache-2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.7
+Provides-Extra: cpu
+Provides-Extra: cuda101
+Provides-Extra: cuda102
+Provides-Extra: cuda110
+Provides-Extra: cuda111
+Provides-Extra: minimum-jaxlib
+Provides-Extra: tpu
